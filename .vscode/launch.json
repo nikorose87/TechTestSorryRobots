@@ -8,7 +8,7 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "args":["list_sample.txt"],
+            "args":["list_sample_bad.txt"],
             "program": "${file}",
             "console": "integratedTerminal"
         }
